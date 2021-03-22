@@ -7,7 +7,7 @@
 </p>
 
 # IG-BRUTER
-Hacking account of instagram using brute-force method
+Hacking account of instagram using brute-force method [Root permission required]
 ## Features
 * Multi-thread (100 attempts at once)
 * Save/Resume sessions
