@@ -33,3 +33,16 @@ Script uses an Android ApkSignature to perform authentication in addition using 
 * Thanks to: @antony-jy https://github.com/antony-jr
 ## Legal disclaimer ~#
 Usage of Ig-Bruter for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+```
+All Requires are installed!
+██╗ ██████╗               ██████╗ ██████╗ ██╗   ██╗████████╗███████╗██████╗
+██║██╔════╝               ██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██╔════╝██╔══██╗
+██║██║  ███╗    █████╗    ██████╔╝██████╔╝██║   ██║   ██║   █████╗  ██████╔╝
+██║██║   ██║    ╚════╝    ██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══╝  ██╔══██╗
+██║╚██████╔╝              ██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗██║  ██║
+╚═╝ ╚═════╝               ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝
+
+Username account:
+Password List (Enter to default list): passwords.lst
+```
